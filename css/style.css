@@ -1,0 +1,11 @@
+.center{
+    padding-top: 300px
+}
+.guess{
+    letter-spacing: 10px;
+    text-decoration: underline;
+    line-height: 1em;
+}
+.guess1{
+    padding-bottom: 50px
+}
